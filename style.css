@@ -1,0 +1,37 @@
+body {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.judul {
+	background: #47b26e;
+	padding: 10px;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+button {
+	border: 0px;
+	padding: 5px;
+}
+button:hover {
+	background-color: #ccc;
+	cursor: pointer;
+}
+
+.table{
+	border-collapse: collapse;
+}
+.table tr th, .table tr td {
+	padding: 5px;
+}
+
+/*
+Code by YukCoding Tutor
+www.yukcoding.id
+*/
